@@ -1,10 +1,16 @@
-p{
+.p{
     background-color: blue;
     text-align: center;
     color: white;
 }
-h1{
+.h1{
     background-color: aquamarine;
     text-align: center;
     color: white;
+}
+body{
+    background-image: url(../img/backgrount.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
